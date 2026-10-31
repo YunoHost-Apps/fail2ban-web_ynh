@@ -10,7 +10,7 @@ It shall NOT be edited by hand.
 
 Monitor Fail2Ban and manually ban / release IP's
 
-[![Version: 1.3~ynh2](https://img.shields.io/badge/Version-1.3~ynh2-rgb(18,138,11)?style=for-the-badge)](https://ci-apps.yunohost.org/ci/apps/fail2ban-web/)
+[![Version: 1.4~ynh1](https://img.shields.io/badge/Version-1.4~ynh1-rgb(18,138,11)?style=for-the-badge)](https://ci-apps.yunohost.org/ci/apps/fail2ban-web/)
 
 <div align="center">
 <a href="https://apps.yunohost.org/app/fail2ban-web"><img height="100px" src="https://github.com/YunoHost/yunohost-artwork/raw/refs/heads/main/badges/neopossum-badges/badge_more_info_on_the_appstore.svg"/></a>
@@ -25,7 +25,7 @@ Monitor Fail2Ban and manually ban / release IP's
 
 [![Automatic tests level](https://apps.yunohost.org/badge/cilevel/fail2ban-web)](https://ci-apps.yunohost.org/ci/apps/fail2ban-web/)
 
-🛠️ Upstream Fail2Ban Webinterface repository: <https://github.com/ewilly/fail2ban-web-interface-php>
+🛠️ Upstream Fail2Ban Webinterface repository: <https://codeberg.org/ewilly/fail2ban-web-interface-php>
 
 Pull request are welcome and should target the [`testing` branch](https://github.com/YunoHost-Apps/fail2ban-web_ynh/tree/testing).
 
